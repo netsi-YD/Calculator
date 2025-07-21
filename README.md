@@ -12,9 +12,9 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 ## 🚀 How to Use
 
 1. Clone the repository:
-   ```bash
-  1. git clone https://github.com/netsi-YD/calculator.git
-  2.Open index.html in your browser.
+   ```bash 
+   git clone https://github.com/netsi-YD/calculator.git
+ 2. Open index.html in your browser.
   3. Then,Start calculating!
 
   ##  project structure
