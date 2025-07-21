@@ -17,10 +17,4 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
  2. Open index.html in your browser.
   3. Then,Start calculating!
 
-  ##  project structure
-  calculator
-│
-├── index.html       → HTML structure
-├── styles.css       → CSS styling
-└── script.js        → JavaScript functionality
-
+ 
