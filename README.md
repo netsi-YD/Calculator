@@ -13,7 +13,7 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 
 1. Clone the repository:
    ```bash 
-   git clone https://github.com/netsi-YD/calculator.git
+   git clone https://github.com/netsi-YD/Calculator.git
  2. Open index.html in your browser.
   3. Then,Start calculating!
 
